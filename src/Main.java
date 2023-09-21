@@ -12,7 +12,7 @@ public class Main {
 
         int initial = 0;
 
-        //how reduce method adds the element as the following
+        //how reduce method adds the stream elements
         //initial = initial + first -> 1
         //initial1 = initial + second -> 2
         //initial2 = initial1 + third -> 3
